@@ -1,0 +1,11 @@
+.idea/
+*.iml
+out/
+.kotlin/
+.vscode/
+.DS_Store
+*.pdf
+prompt.txt
+.claude/
+outpost_state.txt
+outpostState_state.txt
